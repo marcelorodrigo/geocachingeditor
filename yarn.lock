@@ -285,10 +285,10 @@ source-map-js@^1.2.1:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.1.tgz#1ce5650fddd87abc099eda37dcff024c2667ae46"
   integrity sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==
 
-tinymce@^7.4.1:
-  version "7.4.1"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-7.4.1.tgz#cae3160a7d5850e3069d6d79625b1c74918f8af9"
-  integrity sha512-g1Ieaio5YU+jLEQZkQyxTT8EY/im+TC/CFBPlqDBCNdsF8YQOeLMot+K6vmFOAXhNc85KhP1rC9Dn2X+iBFDGg==
+tinymce@^7.5.0:
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-7.5.0.tgz#56388d314399c288a100df4aaf468153f29477f1"
+  integrity sha512-A7iuQPIfeze5rO6bvnnPwP7TiWnPA9AGr8U/9ssLwrEG+FMYPzvLPt3RT8ktVn/wPSJkVBBSLCAZX2dAHb8YEA==
 
 vite@^5.4.10:
   version "5.4.10"
