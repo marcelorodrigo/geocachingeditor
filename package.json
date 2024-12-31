@@ -10,7 +10,7 @@
     "tinymce": "^7.6.0"
   },
   "devDependencies": {
-    "vite": "^5.4.11"
+    "vite": "^6.0.6"
   },
   "scripts": {
     "dev": "vite",
