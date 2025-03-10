@@ -7,7 +7,7 @@
   "author": "Marcelo Wiebbelling <mrodrigow@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "tinymce": "^7.7.0"
+    "tinymce": "^7.7.1"
   },
   "devDependencies": {
     "vite": "^6.2.0"
